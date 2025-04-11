@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/mac-mini/Documents/FootballStreaming/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac-mini/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/mac-mini/Documents/FootballStreaming/app/.cxx/RelWithDebInfo/5h4q1u47/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac-mini/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/mac-mini/Documents/FootballStreaming/app/.cxx/RelWithDebInfo/5h4q1u47/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cppproject::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "cppproject",
+      "output": "/Users/mac-mini/Documents/FootballStreaming/app/build/intermediates/cxx/RelWithDebInfo/5h4q1u47/obj/x86/libcppproject.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

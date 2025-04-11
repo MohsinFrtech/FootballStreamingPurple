@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Football Streaming</string>
+
+    <string name="no_internet">Internet connection lost! ,please check your internet connection.</string>
+    <string name="retry">Retry</string>
+    <string name="usbDebugging">Please Disable \"USB Debugging\" from your phone to use the app.</string>
+    <string name="volume">volume</string>
+
+    <!--AppUpdateDialog-->
+    <string name="update_text1">No,Thanks</string>
+    <string name="update_text2">Update</string>
+    <string name="newVersion">New Version Available</string>
+
+    <!--backPressedDialog-->
+    <string name="back_title">App Rating..</string>
+    <string name="back_text1">Are you sure to exit?</string>
+    <string name="exit">Exit</string>
+    <string name="back_button1">YES</string>
+    <string name="back_button2">NO</string>
+
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="adblock">We detected ad blocker running on your device.Please disable adblocker and then use our app.</string>
+    <string name="ad_blocker">adblocker</string>
+
+    <string name="cpp_file_error">Something went wrong. please restart your phone to use the app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">liveIcon</string>
+    <string name="playerLive">Live</string>
+    <string name="lockIcon">lockIcon</string>
+    <string name="pauseIcon">pauseIcon</string>
+    <string name="screenModeIcon">screenModeIcon</string>
+    <string name="playerStretch">Stretch</string>
+
+</resources>

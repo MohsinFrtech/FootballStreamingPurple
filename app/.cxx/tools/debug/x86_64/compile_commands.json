@@ -1,0 +1,202 @@
+[
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file1.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file1.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file1.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file2.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file2.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file2.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file3.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file3.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file3.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file4.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file4.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file4.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file5.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file5.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file5.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file6.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file6.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file6.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file7.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file7.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file7.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file8.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file8.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file8.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file9.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file9.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file9.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file10.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file10.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file10.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file11.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file11.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file11.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file12.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file12.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file12.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file13.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file13.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file13.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file14.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file14.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file14.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file15.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file15.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file15.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file16.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file16.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file16.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file17.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file17.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file17.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file18.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file18.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file18.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file19.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file19.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file19.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file20.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file20.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file20.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file21.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file21.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file21.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file22.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file22.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file22.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file23.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file23.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file23.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file24.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file24.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file24.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file25.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file25.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file25.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file26.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file26.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file26.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file27.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file27.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file27.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file28.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file28.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file28.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file29.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file29.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file29.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file30.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file30.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file30.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file31.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file31.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file31.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file32.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file32.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file32.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file33.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file33.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file33.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file34.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file34.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file34.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file35.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file35.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file35.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file36.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file36.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file36.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file37.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file37.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file37.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file38.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file38.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file38.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file39.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file39.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file39.cpp"
+},
+{
+  "directory": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/x86_64",
+  "command": "/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/mac-mini/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcppproject_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/cppproject.dir/file40.cpp.o -c /Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file40.cpp",
+  "file": "/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/src/main/cpp/file40.cpp"
+}
+]

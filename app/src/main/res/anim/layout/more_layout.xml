@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:measureAllChildren="true"
+        android:fillViewport="true"
+        android:background="@drawable/bg_more_layout">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/menuImage"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="25dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/menu"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/menu_active"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/scoreLay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@+id/menuImage"
+                android:layout_marginTop="@dimen/_50sdp">
+
+                <ImageView
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/scoreImage"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/ic_matches"
+                    android:layout_height="@dimen/_30sdp"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/scoreText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Scores"
+                    app:layout_constraintTop_toTopOf="@+id/scoreImage"
+                    app:layout_constraintBottom_toBottomOf="@+id/scoreImage"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/scoreImage"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/notification"
+                android:layout_marginTop="@dimen/_10sdp"
+                app:layout_constraintTop_toBottomOf="@+id/scoreLay"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/bell"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/notification"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/favoriteText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Notifications"
+                    app:layout_constraintTop_toTopOf="@+id/bell"
+                    app:layout_constraintBottom_toBottomOf="@+id/bell"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/bell"
+                    android:layout_height="wrap_content"/>
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/notification_on_off"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    android:theme="@style/Theme.FootballStreaming"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    tools:ignore="SpeakableTextPresentCheck" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/rateLay"
+                android:layout_marginTop="@dimen/_10sdp"
+                app:layout_constraintTop_toBottomOf="@+id/notification"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/rate"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/rate_us"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/rateText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Rate Us"
+                    app:layout_constraintTop_toTopOf="@+id/rate"
+                    app:layout_constraintBottom_toBottomOf="@+id/rate"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/rate"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/contLay"
+                android:layout_marginTop="@dimen/_10sdp"
+                app:layout_constraintTop_toBottomOf="@+id/rateLay"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/contact"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/contact_us"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/contactText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Contact Us"
+                    app:layout_constraintTop_toTopOf="@+id/contact"
+                    app:layout_constraintBottom_toBottomOf="@+id/contact"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/contact"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/shareLay"
+                android:layout_marginTop="@dimen/_10sdp"
+                app:layout_constraintTop_toBottomOf="@+id/contLay"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/share"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/share"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/shareText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Share"
+                    app:layout_constraintTop_toTopOf="@+id/share"
+                    app:layout_constraintBottom_toBottomOf="@+id/share"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/share"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/ppLay"
+                android:layout_marginTop="@dimen/_10sdp"
+                app:layout_constraintTop_toBottomOf="@+id/shareLay"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="30dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:id="@+id/pp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:src="@drawable/privacy_and_policy"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/ppText"
+                    android:layout_marginStart="20dp"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="Privacy Policy"
+                    app:layout_constraintTop_toTopOf="@+id/pp"
+                    app:layout_constraintBottom_toBottomOf="@+id/pp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/pp"
+                    android:layout_height="wrap_content"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/versionLay"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginBottom="@dimen/_70sdp"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:textColor="@color/white"
+                    android:id="@+id/versionText"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:text="version"
+                    android:textAlignment="center"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_height="match_parent"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</layout>

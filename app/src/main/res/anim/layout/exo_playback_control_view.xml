@@ -1,0 +1,143 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:id="@+id/exoControlView"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/liveShape"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="30sp"
+            android:layout_marginBottom="100dp"
+            android:contentDescription="Live"
+            android:src="@drawable/record"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:tint="@android:color/holo_red_dark" />
+
+        <TextView
+            android:id="@+id/liveTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:text="Live"
+            android:textColor="@android:color/white"
+            android:textSize="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/liveShape"
+            app:layout_constraintLeft_toRightOf="@+id/liveShape"
+            app:layout_constraintTop_toTopOf="@+id/liveShape" />
+
+        <com.tsz.live.football.tv.streaming.hd.utils.playerUtils.SeekBarClass
+            android:id="@+id/seekProgress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:enabled="false"
+            android:progress="100"
+            android:theme="@style/MySeekBar2"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/liveTxt">
+
+        </com.tsz.live.football.tv.streaming.hd.utils.playerUtils.SeekBarClass>
+
+        <View
+            android:id="@+id/lock_affect"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/circle_background"
+            android:visibility="gone"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/seekProgress" />
+
+        <ImageView
+            android:id="@+id/lock_mode"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:contentDescription="Lock"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/seekProgress"
+            app:srcCompat="@drawable/ic_locked"
+            app:tint="@android:color/white" />
+
+        <ImageButton
+            android:id="@id/exo_play_pause"
+            style="@style/ExoMediaButton.Pause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:contentDescription="Pause"
+            android:tintMode="src_in"
+            app:layout_constraintBottom_toBottomOf="@+id/lock_mode"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/seekProgress"
+            app:layout_constraintTop_toTopOf="@+id/lock_mode"
+            app:tint="@android:color/white" />
+
+
+        <View
+            android:id="@+id/layout_right"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/circle_background"
+            android:visibility="gone"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/seekProgress" />
+
+        <ImageView
+            android:id="@+id/full_screen_icon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:visibility="gone"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="10dp"
+            android:contentDescription="Full Screen"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/seekProgress"
+            app:srcCompat="@drawable/ic_full_screen"
+            app:tint="@android:color/white"
+            tools:ignore="VectorDrawableCompat" />
+
+        <TextView
+            android:id="@+id/changed_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:background="@drawable/rectangular_view"
+            android:gravity="center_horizontal|center_vertical"
+            android:padding="10dp"
+            android:text="Strech"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:visibility="gone">
+
+        </TextView>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</layout>

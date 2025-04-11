@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937722212763",
+    "project_id": "traumaapps-acdb3",
+    "storage_bucket": "traumaapps-acdb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937722212763:android:4957558303c0cf4b22713e",
+        "android_client_info": {
+          "package_name": "com.traumsportzone.live.cricket.tv.scores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MEjTlvv5d9FPgq7cQng3hNX3ZKu0AU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937722212763:android:3b633eb8fefe5fda22713e",
+        "android_client_info": {
+          "package_name": "com.tsz.live.football.tv.streaming.hd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MEjTlvv5d9FPgq7cQng3hNX3ZKu0AU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

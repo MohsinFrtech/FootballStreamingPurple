@@ -1,0 +1,3 @@
+/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mac-mini/Documents/AliBhiCodesCloneBitbucket/PurpleApp/app/.cxx/Debug/2n22684j/armeabi-v7a/CMakeFiles/cppproject.dir

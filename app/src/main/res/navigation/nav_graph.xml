@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/event">
+
+    <fragment
+        android:id="@+id/event"
+        android:name="com.tsz.live.football.tv.streaming.hd.ui.fragments.EventFragment"
+        tools:layout="@layout/fragment_event"
+        android:label="Event Fragment">
+
+        <action
+            android:id="@+id/action_event_to_channel"
+            app:destination="@id/channel" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/channel"
+        android:name="com.tsz.live.football.tv.streaming.hd.ui.fragments.ChannelFragment"
+        android:label="Channel Fragment"
+        tools:layout="@layout/fragment_channel">
+        <argument
+            android:name="getEvent"
+            app:argType="com.tsz.live.football.tv.streaming.hd.models.Event"
+            app:nullable="true"
+            android:defaultValue="@null" />
+        <action
+            android:id="@+id/action_channel_to_player2"
+            app:destination="@id/player2" />
+
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/football"
+        android:name="com.tsz.live.football.tv.streaming.hd.ui.fragments.MatchesFragment"
+        android:label="matches_fragment"
+        tools:layout="@layout/fragment_matches" >
+
+        <action
+            android:id="@+id/action_football_to_detail"
+            app:destination="@id/matchDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/matchDetailFragment"
+        android:name="com.tsz.live.football.tv.streaming.hd.ui.fragments.MatchDetailFragment"
+        android:label="fragment_match_detail"
+        tools:layout="@layout/fragment_match_detail" >
+        <argument
+            android:name="matchID"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="matchDetail"
+            app:argType="com.tsz.live.football.tv.streaming.hd.models.FootballMatches"
+            app:nullable="true"
+            android:defaultValue="@null" />
+    </fragment>
+    <activity
+        android:id="@+id/player2"
+        android:name="com.tsz.live.football.tv.streaming.hd.ui.activities.PlayerScreenMedia3"
+        tools:layout="@layout/activity_exo_test_player"
+        android:label="Player Media3">
+
+        <argument
+            android:name="baseURL"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue="abc" />
+        <argument
+            android:name="linkAppend"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue="abc" />
+        <argument
+            android:name="channleType"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue="abc" />
+        <argument
+            android:name="channel_time"
+            app:argType="long"
+            android:defaultValue="0L" />
+    </activity>
+
+</navigation>

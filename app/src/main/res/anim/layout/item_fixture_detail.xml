@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="fixture2"
+            type="com.tsz.live.football.tv.streaming.hd.models.FootballMatches" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:weightSum="2.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstLay"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="60dp"
+        android:background="@drawable/item_fixture_layout">
+        <TextView
+            android:id="@+id/text_status"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:text=""
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/guideline5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/name_homeTeam"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center|end"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:text="@{fixture2.homeTeam.name}"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/logo_homeTeam"
+            app:layout_constraintStart_toStartOf="@+id/guideline5"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/logo_homeTeam"
+            android:layout_width="22dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline9"
+            app:layout_constraintEnd_toStartOf="@+id/text_score"
+            app:layout_constraintTop_toTopOf="@+id/guideline8"
+            imageUrl="@{fixture2.homeTeam.logo}"
+            android:layout_marginEnd="8dp"/>
+
+        <TextView
+            android:id="@+id/text_score"
+            android:layout_width="35dp"
+            android:layout_height="0dp"
+            android:background="@drawable/bg_fixture_score"
+            android:gravity="center"
+            android:text="1-0"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/guideline9"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline5"
+            app:layout_constraintTop_toTopOf="@+id/guideline8" />
+
+        <ImageView
+            android:id="@+id/logo_awayTeam"
+            android:layout_width="22dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline9"
+            app:layout_constraintStart_toEndOf="@+id/text_score"
+            app:layout_constraintTop_toTopOf="@+id/guideline8"
+            imageUrl="@{fixture2.awayTeam.logo}"
+            android:layout_marginStart="8dp"/>
+
+        <TextView
+            android:id="@+id/name_awayTeam"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center|start"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:text="@{fixture2.awayTeam.name}"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/logo_awayTeam"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="40dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.25" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.75" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/app_rate_us">
+    <data>
+
+    </data>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        app:cardBackgroundColor="@android:color/white"
+        android:layout_height="wrap_content">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/icon_clcik"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:contentDescription="Ad Icon"
+                android:src="@drawable/splash_icon"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <TextView
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:id="@+id/rateUsTitle"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/icon_clcik"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:textStyle="bold"
+                android:textSize="@dimen/_12sdp"
+                android:textColor="@android:color/black"
+                android:text="@string/app_name"/>
+
+
+            <Button
+                android:id="@+id/rateUs"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="35dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="20dp"
+                android:layout_weight="50"
+
+                android:background="@drawable/app_layout_draw"
+                android:text="Rate Us"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/cancelUs"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/rateUsTitle"
+                app:layout_constraintVertical_bias="0.5" />
+
+            <Button
+                android:id="@+id/cancelUs"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="35dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="20dp"
+                android:layout_weight="50"
+                android:background="@drawable/app_layout_draw"
+                android:text="Cancel"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/rateUs"
+                app:layout_constraintTop_toBottomOf="@+id/rateUsTitle"
+                app:layout_constraintVertical_bias="0.5" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

@@ -14,12 +14,12 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     std::string l9o = "LzJcxwnjKxBr4Z3SY&NlwnEqv@IBSzfzEnwvhjPf";	env->SetObjectArrayElement(strarr, 1, env->NewStringUTF(l9o.c_str()));
     std::string KI = "QifxpIGaAa^PgVWk4@tHg%S%G4$UxIDLGbaPaEPS";	env->SetObjectArrayElement(strarr, 2, env->NewStringUTF(KI.c_str()));
     std::string ubc = "BbiWrTeDcsfFhyGvl6Pyc6GxU03VhTgFBds@0i^2";	env->SetObjectArrayElement(strarr, 3, env->NewStringUTF(ubc.c_str()));
-    std::string uL = "lzOwG3OASlegZPyEcwbyF!7HNPP0W0N$4iuUXMT";	env->SetObjectArrayElement(strarr, 4, env->NewStringUTF(uL.c_str()));
+    std::string uL = "3D4e13YXtu5Bc9HLpBOHNUInDld6Vk7K0DqGo5aM";	env->SetObjectArrayElement(strarr, 4, env->NewStringUTF(uL.c_str()));
     std::string HHe = "L$i6axw2Y%Ho%ggT#uBx6&!0H2Nf57$9J5AjW3&c";	env->SetObjectArrayElement(strarr, 5, env->NewStringUTF(HHe.c_str()));
     std::string LNZ= "L$i6axw2Y%Ho%ggT#uBx6&!0H2Nf57$9J5AjW3&c";	env->SetObjectArrayElement(strarr, 6, env->NewStringUTF(LNZ.c_str()));
     std::string zYK= "PRo^bHEsrx0KIuCofE&r^bTvZYgC7v9zBgOMAmo9";	env->SetObjectArrayElement(strarr, 7, env->NewStringUTF(zYK.c_str()));
     std::string qLQ = "!^RMSa&&2e#xVL3d#Csm5eBoAnaccO5yJkyAB8w0";	env->SetObjectArrayElement(strarr, 8, env->NewStringUTF(qLQ.c_str()));
-    std::string GIS = "jGGQVZW8K7&wvI&z!Er%QZyv$@1E@@2Sc%uZRbvk";	env->SetObjectArrayElement(strarr, 9, env->NewStringUTF(GIS.c_str()));
+    std::string GIS = "iKHEw9IocEZU0jS6raGQws8opAGWmGIIxC19cbmI";	env->SetObjectArrayElement(strarr, 9, env->NewStringUTF(GIS.c_str()));
 
     return strarr;
 }

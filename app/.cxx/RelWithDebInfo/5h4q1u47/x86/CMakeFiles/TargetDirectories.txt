@@ -1,3 +1,0 @@
-/Users/mac-mini/Documents/FootballStreaming/app/.cxx/RelWithDebInfo/5h4q1u47/x86/CMakeFiles/rebuild_cache.dir
-/Users/mac-mini/Documents/FootballStreaming/app/.cxx/RelWithDebInfo/5h4q1u47/x86/CMakeFiles/edit_cache.dir
-/Users/mac-mini/Documents/FootballStreaming/app/.cxx/RelWithDebInfo/5h4q1u47/x86/CMakeFiles/cppproject.dir

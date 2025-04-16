@@ -13,7 +13,7 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     jobjectArray strarr = env->NewObjectArray(10, env->FindClass("java/lang/String"), nullptr);
     std::string IzR = "iDN&pvh1vAaSx$BCv8#Vx$m$QHs$caph&&ir0n56";
     env->SetObjectArrayElement(strarr, 0, env->NewStringUTF(IzR.c_str()));
-    std::string V6 = "AKhwQ&$i@JVnYOmqD@L#TC5Cx&%K@SWV3tMyuHBw";
+    std::string V6 = "UWeSQ1aMx850XXfyNYes6iriVllLDkE3KzPFuRdO";
     env->SetObjectArrayElement(strarr, 1, env->NewStringUTF(V6.c_str()));
     std::string sWe = "ln2uX9qCv^h#eH7LgLo5OKjcBQwM&!P7E4!vQ!&R";
     env->SetObjectArrayElement(strarr, 2, env->NewStringUTF(sWe.c_str()));
@@ -23,7 +23,7 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     env->SetObjectArrayElement(strarr, 4, env->NewStringUTF(h70.c_str()));
     std::string bg = "964E#TBxAjCla@KGRBQ8#xOmnfMNwvgHw9vmRTKc";
     env->SetObjectArrayElement(strarr, 5, env->NewStringUTF(bg.c_str()));
-    std::string QbB = "KZa9%A1t2IjtozU6YF1kcxvbn%M@DOcVhw7YQIIK";
+    std::string QbB = "E3KzPFuRdOyWvG2Dr1vPGAZpzCmzddNUInDld6Vk";
     env->SetObjectArrayElement(strarr, 6, env->NewStringUTF(QbB.c_str()));
     std::string Mz9 = "kaKFc%Nj^w6lDWw7$Lxza2P4t%Go$i&W1xW@bLrk";
     env->SetObjectArrayElement(strarr, 7, env->NewStringUTF(Mz9.c_str()));

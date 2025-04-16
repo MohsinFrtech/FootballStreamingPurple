@@ -19,7 +19,7 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     env->SetObjectArrayElement(strarr, 2, env->NewStringUTF(sbV.c_str()));
     std::string Ba5 = "iXoAq3fNHW7MzHM9xKoQvLZW4&kdpALDL72qsZ9@";
     env->SetObjectArrayElement(strarr, 3, env->NewStringUTF(Ba5.c_str()));
-    std::string w = "s8IhREJZe4h4Y18eljhK98AE^5ZZnT10!xlvFWWY";
+    std::string w = "1bwLgVDCTm0PinBCQaQhyEu8ivvyL8nUQ3hSmjbi";
     env->SetObjectArrayElement(strarr, 4, env->NewStringUTF(w.c_str()));
     std::string scP = "R5mWsX&EfJ@@jzYnVice&^NJFXLoaeNY9vcrVz0%";
     env->SetObjectArrayElement(strarr, 5, env->NewStringUTF(scP.c_str()));
@@ -27,7 +27,7 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     env->SetObjectArrayElement(strarr, 6, env->NewStringUTF(Tpo.c_str()));
     std::string vDq = "S7bO3Z&tcNwRAtLWR!5&AJXElxFj^hXxnOIu%c4&";
     env->SetObjectArrayElement(strarr, 7, env->NewStringUTF(vDq.c_str()));
-    std::string Gg = "Kor!P#jc%6YQ#IlY&eJ$#KTX8XpRB8kKbmUgt^kY";
+    std::string Gg = "Vkpa9X8in5qxbZs6gMZ48Lh7T4yZ9a7gvZQDG2yy";
     env->SetObjectArrayElement(strarr, 8, env->NewStringUTF(Gg.c_str()));
     std::string TBG = "jpCH@8rUJ8aH1g%%w!6%BqKvP1W7!b6oA$7ATUE#";
     env->SetObjectArrayElement(strarr, 9, env->NewStringUTF(TBG.c_str()));

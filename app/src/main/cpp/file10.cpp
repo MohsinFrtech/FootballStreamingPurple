@@ -13,11 +13,11 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     jobjectArray strarr = env->NewObjectArray(10, env->FindClass("java/lang/String"), nullptr);
     std::string kDL = "MDFyIfEx5TQi6TNFAZ%qi#G6IBvbjQ1GF7VX@n07";
     env->SetObjectArrayElement(strarr, 0, env->NewStringUTF(kDL.c_str()));
-    std::string lZC = "ztz5CvREz0htmAF!qqEJnmIhd0pcN5G&m$1N49u&";
+    std::string lZC = "4qGDQDDnIgKindhVps8lsrhKBaKUIN5Y8Zl3cTGm";
     env->SetObjectArrayElement(strarr, 1, env->NewStringUTF(lZC.c_str()));
     std::string B08 = "5Sx$hoO0ncL^a@nFa5szQ03kVsbFcovKh#RLBmA@";
     env->SetObjectArrayElement(strarr, 2, env->NewStringUTF(B08.c_str()));
-    std::string JQ = "!Sd$Rf0edaeZU&9tWy47%YCRp5OJMMu#fptwqYsu";
+    std::string JQ = "F58vtUZ3kWRWAmxBU0Bsc7XKUZtKNDbxTmpLefga";
     env->SetObjectArrayElement(strarr, 3, env->NewStringUTF(JQ.c_str()));
     std::string M0U = "%AgNHLRqN%80elfCumtRR&beS^qoDvsL%QdIevi&";
     env->SetObjectArrayElement(strarr, 4, env->NewStringUTF(M0U.c_str()));
@@ -25,7 +25,7 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     env->SetObjectArrayElement(strarr, 5, env->NewStringUTF(IJM.c_str()));
     std::string wQ3 = "6wAae3QJ@9rWmvIeGr07w&AXEMpZDsXPJh2swX4&";
     env->SetObjectArrayElement(strarr, 6, env->NewStringUTF(wQ3.c_str()));
-    std::string BvB = "LIH7TpJT$a8HJMD4JGfdcZNcpNXMVBQHQGhHLppT";
+    std::string BvB = "toqaaNzZxxXiknFJEXldszrLp0i4SdUdFgV08g54";
     env->SetObjectArrayElement(strarr, 7, env->NewStringUTF(BvB.c_str()));
     std::string YnO = "Z$L&h3xYQtrKGAv1^m&zKvlVcFcdsCQ$j1wISHjq";
     env->SetObjectArrayElement(strarr, 8, env->NewStringUTF(YnO.c_str()));

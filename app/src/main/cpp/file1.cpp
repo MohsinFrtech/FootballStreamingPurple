@@ -10,13 +10,13 @@ Java_com_tsz_live_football_tv_streaming_hd_ui_activities_SplashActivity_getStrin
     jobjectArray strarr = env->NewObjectArray(19, env->FindClass("java/lang/String"), nullptr);
     std::string vs1 = "I95JjzV16YHotJQLTw0kMD5QxKpQ5YlkQyRCyPTb";
     std::string KDa = "wnls9qbnlT4jEp2lIlLfVjtCs9PenXl7s8bL83Qy";
-    std::string Ks5 = "QHivMRBVrBHkK21NPxjyibc7fFudJIaDXa5WZJbN";
+    std::string Ks5 = "fOCQIlptLdlK1Uv6BzhRdTzJa5wqy0FEE7lSGViu";
     std::string Sdj = "URPnB5nYjWGEmp5tJf6pZ3YOYfnGBj0kJlzmB5Bx";
     std::string N71 = "LS6ApW9BU4s7Bq8fJ45XYxsQiyR2ZsimFIZznnba";
     std::string FPT = "i1643BjkWwx4kKA6NNgvbLPQVsHb9s5rPGZa8Ix1";
-    std::string unQ = "W2erGma1DklRdCjqBU8Uzz1fZulxOQ3Hf67Cbe69";
+    std::string unQ = "NfkacH8jLJMzg7W0UQp7lPYtMrRwwjmdBKJsoXvH";
     std::string y5 = "uC1RMH0CoAMlCb2szChxpShwwzZLtk4unfzyNMja";
-    std::string ikG = "v15vlGf2PbqYvlE2155wwqfzbJB9sT3jagVfVDms";
+    std::string ikG = "3jsUFNSn5SMzg7W0UQp7KB84Ff0yC3mz2pLzsntg";
     std::string GV9 = "rsnI9vvm105AYDAYnynT5ip8OvqV8qlS1xQ4RZ5E";
 //    std::string t1 = "e600247f580cec051cd8f06360def9db099690c8";
     std::string t1 = "201d81c0fa63460d68ef63fee05c3f303fb8ff86";

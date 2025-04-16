@@ -1,1 +1,0 @@
-/Users/mac-mini/Documents/FootballStreaming/app/src/main/cpp/CMakeLists.txt

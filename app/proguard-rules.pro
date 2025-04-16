@@ -30,6 +30,7 @@
 -dontskipnonpubliclibraryclassmembers
 -verbose
 
+
 -keepattributes Annotation,Signature,EnclosingMethod
 
 -keepclassmembers class com.tsz.live.football.tv.streaming.hd.utils.objects.Constants {
@@ -41,6 +42,10 @@ final *;
 }
 
 
+-dontwarn kotlin.Unit
+
+-dontwarn retrofit2.KotlinExtensions
+-dontwarn retrofit2.KotlinExtensions$*
 
 -dontwarn com.p2pengine.**
 -keep class com.p2pengine.**{*;}
